@@ -8,7 +8,6 @@ Nesta primeira etapa do projeto, o sistema foi desenvolvido utilizando **HTML pu
 # Objetivo do Projeto
 
 O objetivo deste projeto é desenvolver a estrutura básica de um sistema web para um petshop, permitindo a visualização de produtos e serviços oferecidos pelo estabelecimento.
-O petshop fictício criado para esse projeto é o "Pitchulinha Extreme Dog Fight Club", uma caricatura de pet shop especializada em rinha de cães.
 
 A plataforma apresenta:
 
@@ -40,7 +39,7 @@ Cada categoria possui pelo menos **dois produtos**.
 O sistema também apresenta os serviços oferecidos pelo petshop:
 
  - **Banho e tosa**
- - **Treinamento de ataque**
+
 
 Cada serviço contém:
 
